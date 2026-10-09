@@ -1,0 +1,22 @@
+# Godot generated files
+.godot/
+.import/
+export.cfg
+export_credentials.cfg
+
+# Local runtime, logs and caches
+runtime/
+*.log
+__pycache__/
+*.py[cod]
+
+# Blender backups and generated packages
+*.blend[0-9]
+*.blend[0-9][0-9]
+*.zip
+
+# Desktop/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

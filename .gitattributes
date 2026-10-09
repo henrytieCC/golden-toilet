@@ -1,0 +1,13 @@
+* text=auto
+*.gd text eol=lf
+*.gdshader text eol=lf
+*.tscn text eol=lf
+*.godot text eol=lf
+*.import text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.cmd text eol=crlf
+*.blend binary
+*.glb binary
+*.exr binary
+*.png binary
